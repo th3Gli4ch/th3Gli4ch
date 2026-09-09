@@ -167,7 +167,7 @@ The goal is practical tooling, not demos.
 
 ---
 
-## `$ curl github-stats.api/YOUR_GITHUB_USERNAME`
+## `$ curl github-stats.api/`
 
 <div align="center">
 
@@ -193,9 +193,8 @@ The goal is practical tooling, not demos.
 
 | Platform | Link |
 |---|---|
-| GitHub | [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME) |
-| LinkedIn | [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN) |
-| Email | `YOUR_EMAIL` |
+| LinkedIn | [linkedin.com](https://www.linkedin.com/in/jashwanth-raghav-5a9111313/) |
+| Email | `rkjashwanthraghav01@gmail.com` |
 
 </div>
 
