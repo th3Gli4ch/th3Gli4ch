@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00ff41&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=th3Gli4ch&color=00ff41&style=flat-square&label=Profile+Views)
 
 </div>
 
