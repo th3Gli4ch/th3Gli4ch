@@ -61,9 +61,6 @@ Community collaborations: DEF CON Coimbatore (DCG91422) and CSA Tamil Nadu.
 ===
 
 ### CONNECT
-
-GitHub: https://github.com/th3Gli4ch
-
 LinkedIn: https://www.linkedin.com/in/jashwanth-raghav-5a9111313/
 
 Email: rkjashwanthraghav01@gmail.com
